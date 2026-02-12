@@ -322,7 +322,7 @@
 						<width>1125</width>
 						<height>60</height>
 						<font>font13</font>
-						<label>$LOCALIZE[32071]</label>
+						<label>$LOCALIZE[31771]</label>
 						<textcolor>grey2</textcolor>
 						<focusedcolor>white</focusedcolor>
 						<texturefocus>MenuItemFO.png</texturefocus>
@@ -363,7 +363,7 @@
 						<width>1125</width>
 						<height>60</height>
 						<font>font13</font>
-						<label>$LOCALIZE[32062]</label>
+						<label>$LOCALIZE[31762]</label>
 						<textcolor>grey2</textcolor>
 						<focusedcolor>white</focusedcolor>
 						<texturefocus>MenuItemFO.png</texturefocus>
@@ -380,7 +380,7 @@
 						<width>1125</width>
 						<height>60</height>
 						<font>font13</font>
-						<label>$LOCALIZE[32060]</label>
+						<label>$LOCALIZE[31760]</label>
 						<textcolor>grey2</textcolor>
 						<focusedcolor>white</focusedcolor>
 						<texturefocus>MenuItemFO.png</texturefocus>
@@ -397,7 +397,7 @@
 						<width>1125</width>
 						<height>60</height>
 						<font>font13</font>
-						<label>$LOCALIZE[32061]</label>
+						<label>$LOCALIZE[31761]</label>
 						<textcolor>grey2</textcolor>
 						<focusedcolor>white</focusedcolor>
 						<texturefocus>MenuItemFO.png</texturefocus>

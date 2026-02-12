@@ -15,7 +15,7 @@
 				<param name="DialogBackgroundWidth" value="1200" />
 				<param name="DialogBackgroundHeight" value="400" />
 				<param name="DialogHeaderWidth" value="1080" />
-				<param name="DialogHeaderLabel" value="$LOCALIZE[32065]" />
+				<param name="DialogHeaderLabel" value="$LOCALIZE[31765]" />
 				<param name="DialogHeaderId" value="1" />
 				<param name="CloseButtonLeft" value="1065" />
 				<param name="CloseButtonNav" value="10" />
@@ -36,7 +36,7 @@
 					<height>60</height>
 					<width>1095</width>
 					<texturefocus border="5">button-focus2.png</texturefocus>
-					<label>$LOCALIZE[32064]</label>
+					<label>$LOCALIZE[31764]</label>
 					<selected>Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),5) | [[Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),0) | Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),1)] + String.Contains(Player.Process(video.hdr.type),Dolby)]</selected>
 					<onclick>Action(vs10.original)</onclick>
 					<onclick>Dialog.Close(1189)</onclick>
