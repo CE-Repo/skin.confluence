@@ -771,298 +771,298 @@ msgctxt "#31964"
 msgid "Profile avatar"
 msgstr ""
 
-msgctxt "#32000"
+msgctxt "#31700"
 msgid "Display mode"
 msgstr ""
 
-msgctxt "#32001"
+msgctxt "#31701"
 msgid "Video mode"
 msgstr ""
 
-msgctxt "#32002"
+msgctxt "#31702"
 msgid "Color space"
 msgstr ""
 
-msgctxt "#32003"
+msgctxt "#31703"
 msgid "Mb/s"
 msgstr ""
 
-msgctxt "#32004"
+msgctxt "#31704"
 msgid "Bit depth"
 msgstr ""
 
-msgctxt "#32005"
+msgctxt "#31705"
 msgid "Decoder"
 msgstr ""
 
-msgctxt "#32006"
+msgctxt "#31706"
 msgid "VS10 engine"
 msgstr ""
 
-msgctxt "#32007"
+msgctxt "#31707"
 msgid "More"
 msgstr ""
 
-msgctxt "#32008"
+msgctxt "#31708"
 msgid "Video queue"
 msgstr ""
 
-msgctxt "#32009"
+msgctxt "#31709"
 msgid "Video queue data"
 msgstr ""
 
-msgctxt "#32010"
+msgctxt "#31710"
 msgid "Audio queue"
 msgstr ""
 
-msgctxt "#32011"
+msgctxt "#31711"
 msgid "Audio queue data"
 msgstr ""
 
-msgctxt "#32012"
+msgctxt "#31712"
 msgid "Kb/s"
 msgstr ""
 
-msgctxt "#32013"
+msgctxt "#31713"
 msgid "Playback time"
 msgstr ""
 
-msgctxt "#32014"
+msgctxt "#31714"
 msgid "Processor"
 msgstr ""
 
-msgctxt "#32015"
+msgctxt "#31715"
 msgid "Metadata"
 msgstr ""
 
-msgctxt "#32016"
+msgctxt "#31716"
 msgid "Profile"
 msgstr ""
 
-msgctxt "#32017"
+msgctxt "#31717"
 msgid "Level"
 msgstr ""
 
-msgctxt "#32018"
+msgctxt "#31718"
 msgid "RPU"
 msgstr ""
 
-msgctxt "#32019"
+msgctxt "#31719"
 msgid "Base Layer"
 msgstr ""
 
-msgctxt "#32020"
+msgctxt "#31720"
 msgid "Enhancement Layer"
 msgstr ""
 
-msgctxt "#32021"
+msgctxt "#31721"
 msgid "Enhancement Layer Type"
 msgstr ""
 
-msgctxt "#32022"
+msgctxt "#31722"
 msgid "Metadata"
 msgstr ""
 
-msgctxt "#32023"
+msgctxt "#31723"
 msgid "Pixel format"
 msgstr ""
 
-msgctxt "#32024"
+msgctxt "#31724"
 msgid "Aspect ratio"
 msgstr ""
 
-msgctxt "#32025"
+msgctxt "#31725"
 msgid "HDR10 MDL"
 msgstr ""
 
-msgctxt "#32026"
+msgctxt "#31726"
 msgid "HDR10 MaxCLL/FALL"
 msgstr ""
 
-msgctxt "#32027"
+msgctxt "#31727"
 msgid "Media source"
 msgstr ""
 
-msgctxt "#32028"
+msgctxt "#31728"
 msgid "Unknown"
 msgstr ""
 
-msgctxt "#32029"
+msgctxt "#31729"
 msgid "On"
 msgstr ""
 
-msgctxt "#32030"
+msgctxt "#31730"
 msgid "Off"
 msgstr ""
 
-msgctxt "#32031"
+msgctxt "#31731"
 msgid "Deinterlacing"
 msgstr ""
 
-msgctxt "#32032"
+msgctxt "#31732"
 msgid "Player cache"
 msgstr ""
 
-msgctxt "#32033"
+msgctxt "#31733"
 msgid "N/A"
 msgstr ""
 
-msgctxt "#32034"
+msgctxt "#31734"
 msgid "Memory usage"
 msgstr ""
 
-msgctxt "#32035"
+msgctxt "#31735"
 msgid "Passthrough"
 msgstr ""
 
-msgctxt "#32036"
+msgctxt "#31736"
 msgid "AML FPS"
 msgstr ""
 
-msgctxt "#32037"
+msgctxt "#31737"
 msgid "DV Configuration"
 msgstr ""
 
-msgctxt "#32038"
+msgctxt "#31738"
 msgid "DV Levels Metadata"
 msgstr ""
 
-msgctxt "#32039"
+msgctxt "#31739"
 msgid "HDR Static Metadata"
 msgstr ""
 
-msgctxt "#32040"
+msgctxt "#31740"
 msgid "cd/m²"
 msgstr ""
 
-msgctxt "#32041"
+msgctxt "#31741"
 msgid "RPU MDL"
 msgstr ""
 
-msgctxt "#32042"
+msgctxt "#31742"
 msgid "RPU MaxCLL/FALL"
 msgstr ""
 
-msgctxt "#32043"
+msgctxt "#31743"
 msgid "FLL MIN / MAX / Ø"
 msgstr ""
 
-msgctxt "#32044"
+msgctxt "#31744"
 msgid "PQ  MIN / MAX / Ø"
 msgstr ""
 
-msgctxt "#32045"
+msgctxt "#31745"
 msgid "12-bit"
 msgstr ""
 
-msgctxt "#32046"
+msgctxt "#31746"
 msgid "Codec"
 msgstr ""
 
-msgctxt "#32047"
+msgctxt "#31747"
 msgid "Bitrate"
 msgstr ""
 
-msgctxt "#32048"
+msgctxt "#31748"
 msgid "VS10 status"
 msgstr ""
 
-msgctxt "#32051"
+msgctxt "#31751"
 msgid "Input"
 msgstr ""
 
-msgctxt "#32052"
+msgctxt "#31752"
 msgid "Audio language"
 msgstr ""
 
-msgctxt "#32053"
+msgctxt "#31753"
 msgid "Subtitle language"
 msgstr ""
 
-msgctxt "#32054"
+msgctxt "#31754"
 msgid "Video"
 msgstr ""
 
-msgctxt "#32055"
+msgctxt "#31755"
 msgid "Output"
 msgstr ""
 
-msgctxt "#32056"
+msgctxt "#31756"
 msgid "Audio"
 msgstr ""
 
-msgctxt "#32057"
+msgctxt "#31757"
 msgid "Top left"
 msgstr ""
 
-msgctxt "#32058"
+msgctxt "#31758"
 msgid "Top center"
 msgstr ""
 
-msgctxt "#32059"
+msgctxt "#31759"
 msgid "Top right"
 msgstr ""
 
-msgctxt "#32060"
+msgctxt "#31760"
 msgid "Position of the codec logos in the OSD"
 msgstr ""
 
-msgctxt "#32061"
+msgctxt "#31761"
 msgid "Position of the codec logos in the PlayerProcessInfo"
 msgstr ""
 
-msgctxt "#32062"
+msgctxt "#31762"
 msgid "Position of the codec logos when video starts"
 msgstr ""
 
-msgctxt "#32063"
+msgctxt "#31763"
 msgid "Codec logos"
 msgstr ""
 
-msgctxt "#32064"
+msgctxt "#31764"
 msgid "Original"
 msgstr ""
 
-msgctxt "#32065"
+msgctxt "#31765"
 msgid "VS10 mode"
 msgstr ""
 
-msgctxt "#32067"
+msgctxt "#31767"
 msgid "L5 Active Offsets"
 msgstr ""
 
-msgctxt "#32068"
+msgctxt "#31768"
 msgid "Version"
 msgstr ""
 
-msgctxt "#32069"
+msgctxt "#31769"
 msgid "Bit depth"
 msgstr ""
 
-msgctxt "#32070"
+msgctxt "#31770"
 msgid "EOTF & Gamut"
 msgstr ""
 
-msgctxt "#32071"
+msgctxt "#31771"
 msgid "Duration of the codec logos when video starts"
 msgstr ""
 
-msgctxt "#32072"
+msgctxt "#31772"
 msgid "Standard"
 msgstr ""
 
-msgctxt "#32075"
+msgctxt "#31775"
 msgid "second"
 msgstr ""
 
-msgctxt "#32076"
+msgctxt "#31776"
 msgid "seconds"
 msgstr ""
 
-msgctxt "#32077"
+msgctxt "#31777"
 msgid "System"
 msgstr ""
 
-msgctxt "#32078"
+msgctxt "#31778"
 msgid "Decoding"
 msgstr ""
