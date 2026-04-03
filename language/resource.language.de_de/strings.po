@@ -913,8 +913,8 @@ msgid "Enhancement Layer"
 msgstr "Enhancement Layer"
 
 msgctxt "#31721"
-msgid "CMv2.9 to CMv4.0"
-msgstr "CMv2.9 zu CMv4.0"
+msgid "CMv2.9 -> CMv4.0"
+msgstr "CMv2.9 -> CMv4.0"
 
 msgctxt "#31722"
 msgid "Metadata"

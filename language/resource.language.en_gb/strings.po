@@ -856,7 +856,7 @@ msgid "Enhancement Layer"
 msgstr ""
 
 msgctxt "#31721"
-msgid "CMv2.9 to CMv4.0"
+msgid "CMv2.9 -> CMv4.0"
 msgstr ""
 
 msgctxt "#31722"
