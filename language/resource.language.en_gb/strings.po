@@ -924,7 +924,7 @@ msgid "Dolby Vision"
 msgstr ""
 
 msgctxt "#31738"
-msgid "DV Levels Metadata"
+msgid "L5 Offsets (detected)"
 msgstr ""
 
 msgctxt "#31739"

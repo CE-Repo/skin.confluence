@@ -981,8 +981,8 @@ msgid "Dolby Vision"
 msgstr "Dolby Vision"
 
 msgctxt "#31738"
-msgid "DV Levels Metadata"
-msgstr "DV-Ebenen Metadaten"
+msgid "L5 Offsets (detected)"
+msgstr "L5 Offset (ermittelt)"
 
 msgctxt "#31739"
 msgid "HDR Static Metadata"
