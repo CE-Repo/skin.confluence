@@ -1123,3 +1123,19 @@ msgstr "System"
 msgctxt "#31778"
 msgid "Decoding"
 msgstr "Dekodierung"
+
+msgctxt "#31790"
+msgid "failed"
+msgstr "gescheitert"
+
+msgctxt "#31791"
+msgid "detected"
+msgstr "ermittelt"
+
+msgctxt "#31792"
+msgid "skipped"
+msgstr "übersprungen"
+
+msgctxt "#31793"
+msgid "running"
+msgstr "ermitteln"

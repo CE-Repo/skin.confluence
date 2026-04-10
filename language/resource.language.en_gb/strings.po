@@ -1066,3 +1066,19 @@ msgstr ""
 msgctxt "#31778"
 msgid "Decoding"
 msgstr ""
+
+msgctxt "#31790"
+msgid "failed"
+msgstr ""
+
+msgctxt "#31791"
+msgid "detected"
+msgstr ""
+
+msgctxt "#31792"
+msgid "skipped"
+msgstr ""
+
+msgctxt "#31793"
+msgid "running"
+msgstr ""
