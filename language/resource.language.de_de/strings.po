@@ -830,7 +830,7 @@ msgstr "Profil-Avatar"
 
 msgctxt "#31700"
 msgid "Display mode"
-msgstr "Bildauflösung"
+msgstr "Displayauflösung"
 
 msgctxt "#31701"
 msgid "Video mode"
@@ -845,12 +845,12 @@ msgid "Mb/s"
 msgstr "Mb/s"
 
 msgctxt "#31704"
-msgid "Bit depth"
-msgstr "Bittiefe"
+msgid "Video bit depth"
+msgstr "Videofarbtiefe"
 
 msgctxt "#31705"
 msgid "Decoder"
-msgstr "Decoder"
+msgstr "Dekodierung"
 
 msgctxt "#31706"
 msgid "VS10 | VP mode"
@@ -921,12 +921,12 @@ msgid "Metadata"
 msgstr "Metadaten"
 
 msgctxt "#31723"
-msgid "Pixel format"
-msgstr "Pixelformat"
+msgid "Output format"
+msgstr "Ausgabeformat"
 
 msgctxt "#31724"
 msgid "Aspect ratio"
-msgstr "Verhältnis"
+msgstr "Seitenverhältnis"
 
 msgctxt "#31725"
 msgid "HDR10 MDL"

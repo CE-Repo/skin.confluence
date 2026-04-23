@@ -788,7 +788,7 @@ msgid "Mb/s"
 msgstr ""
 
 msgctxt "#31704"
-msgid "Bit depth"
+msgid "Video bit depth"
 msgstr ""
 
 msgctxt "#31705"
@@ -864,7 +864,7 @@ msgid "Metadata"
 msgstr ""
 
 msgctxt "#31723"
-msgid "Pixel format"
+msgid "Output format"
 msgstr ""
 
 msgctxt "#31724"
