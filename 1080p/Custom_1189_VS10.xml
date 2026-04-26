@@ -55,7 +55,6 @@
 					<width>1095</width>
 					<texturefocus border="5">button-focus2.png</texturefocus>
 					<label>VS10 HDR10</label>
-					<visible>[String.Contains(Player.Process(video.hdr.type),SDR) | String.Contains(Player.Process(video.hdr.type),HLG)]</visible>
 					<selected>Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),2)</selected>
 					<onclick>Action(vs10.hdr10)</onclick>
 					<onclick>Dialog.Close(1189)</onclick>
@@ -64,7 +63,6 @@
 					<height>60</height>
 					<width>1095</width>
 					<texturefocus border="5">button-focus2.png</texturefocus>
-					<visible>String.Contains(Player.Process(video.hdr.type),SDR) | String.Contains(Player.Process(video.hdr.type),HDR)</visible>
 					<label>VS10 Dolby Vision</label>
 					<selected>[Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),0) | Integer.IsEqual(Player.Process(amlogic.vs10.mode.raw),1)] + !String.Contains(Player.Process(video.hdr.type),Dolby)</selected>
 					<onclick>Action(vs10.dv)</onclick>
